@@ -21,5 +21,5 @@ phases:
 
 artifacts:
   files:
-    - build/libs/volodymyrtanin-$VERSION.jar
+    - build/libs/tanin-$VERSION.jar
     - outputSamTemplate.yml
